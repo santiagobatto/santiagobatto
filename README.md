@@ -1,15 +1,19 @@
 <h1 align="center">Hola! 👋, Me llamo Justo Santiago Batto</h1>
 <h3 align="center">Programador estudiante de primer año de la carrera Computer Science en la Facultad de Matemática, Astronomía, Física y Computación, de Córdoba. Recibido como Analista Programador Universitario de la Universidad Nacional de Jujuy y egresado como Técnico informático.</h3>
 
+<div align="center">
+  <img src="[LINK_DEL_GIF.gif](https://media.tenor.com/0heitU7-tg4AAAAC/copy-paste-paste.gif)" style="width:100%;height:auto;" /> 
+</div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=santiagobatto&label=Profile%20views&color=0e75b6&style=flat" alt="santiagobatto" /> </p>
 
 - 🌱 Actualmente estoy especializandome en **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/santiagobatto/Portfolio](https://github.com/santiagobatto/Portfolio)
+- 👨‍💻 Todos mis proyectos estan disponibles es: [https://github.com/santiagobatto/Portfolio](https://github.com/santiagobatto/Portfolio)
 
 - 📫 Como contactarme? **santiagobatto007@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/santiagobatto/overlay/1635516100156/single-media-viewer/?profileId=ACoAADznx28BXsZ4P5nTC_Px_lsmPgzAyKoes30](https://www.linkedin.com/in/santiagobatto/overlay/1635516100156/single-media-viewer/?profileId=ACoAADznx28BXsZ4P5nTC_Px_lsmPgzAyKoes30)
+- 📄 Encontra mi CV en: [https://www.linkedin.com/in/santiagobatto/overlay/1635516100156/single-media-viewer/?profileId=ACoAADznx28BXsZ4P5nTC_Px_lsmPgzAyKoes30](https://www.linkedin.com/in/santiagobatto/overlay/1635516100156/single-media-viewer/?profileId=ACoAADznx28BXsZ4P5nTC_Px_lsmPgzAyKoes30)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
