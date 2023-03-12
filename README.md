@@ -1,6 +1,6 @@
 <h1 align="center">Hola! 👋, Me llamo Justo Santiago Batto</h1>
 <h3 align="center">Programador estudiante de primer año de la carrera Computer Science en la Facultad de Matemática, Astronomía, Física y Computación, de Córdoba. Recibido como Analista Programador Universitario de la Universidad Nacional de Jujuy y egresado como Técnico informático.</h3>
-
+<br>
 <div align="center">
   <img src="https://media.tenor.com/0heitU7-tg4AAAAC/copy-paste-paste.gif" style="width:100%;height:auto;" /> 
 </div>
