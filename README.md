@@ -13,7 +13,7 @@
 
 - 📫 Como contactarme? **santiagobatto007@gmail.com**
 
-- 📄 Encontra más sobre mi en: [https://www.linkedin.com/in/santiagobatto/] 
+- 📄 Encontra más sobre mi en: https://www.linkedin.com/in/santiagobatto/
 
 
 <br>
