@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, Me llamo Justo Santiago Batto</h1>
-<h3 align="center">Programador, estudiante de la carrera Ciencias de la Computacion en la Facultad de Matemática, Astronomía, Física y Computación, de Córdoba. Analista Programador Universitario & Técnico informático.</h3>
+<h3 align="center">Programador, estudiante de Ciencias de la Computacion. Analista Programador Universitario & Técnico informático.</h3>
 <br>
 <div align="center">
   <img src="https://media.tenor.com/0heitU7-tg4AAAAC/copy-paste-paste.gif" style="width:100%;height:auto;" /> 
@@ -7,13 +7,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=santiagobatto&label=Profile%20views&color=0e75b6&style=flat" alt="santiagobatto" /> </p>
 
-- 🌱 Actualmente estoy especializandome en **Python**
+- 🌱 Actualmente estoy especializandome en **C**
 
-- 👨‍💻 Todos mis proyectos estan disponibles es: [https://github.com/santiagobatto/Portfolio](https://github.com/santiagobatto/Portfolio)
+- 👨‍💻 Todos mis proyectos estan disponibles es: [https://github.com/santiagobatto/Portfolio](https://github.com/santiagobatto?tab=repositories)
 
 - 📫 Como contactarme? **santiagobatto007@gmail.com**
 
-- 📄 Encontra mi CV en: [https://www.linkedin.com/in/santiagobatto/overlay/1635516100156/single-media-viewer/?profileId=ACoAADznx28BXsZ4P5nTC_Px_lsmPgzAyKoes30](https://www.linkedin.com/in/santiagobatto/overlay/1635516100156/single-media-viewer/?profileId=ACoAADznx28BXsZ4P5nTC_Px_lsmPgzAyKoes30)
+- 📄 Encontra más sobre mi en: [https://www.linkedin.com/in/santiagobatto/] 
+
 
 <br>
 
