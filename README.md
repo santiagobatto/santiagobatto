@@ -1,5 +1,5 @@
-<h1 align="center">Hola! 👋, Me llamo Justo Santiago Batto</h1>
-<h3 align="center">Programador, estudiante de Ciencias de la Computacion. Analista Programador Universitario & Técnico informático.</h3>
+<h1 align="center">Holaaa 👋
+<h3 align="center">Programador. Estudiante de Ciencias de la Computacion. Analista Programador Universitario & Técnico informático.</h3>
 <br>
 <div align="center">
   <img src="https://media.tenor.com/0heitU7-tg4AAAAC/copy-paste-paste.gif" style="width:100%;height:auto;" /> 
@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=santiagobatto&label=Profile%20views&color=0e75b6&style=flat" alt="santiagobatto" /> </p>
 
-- 🌱 Actualmente estoy especializandome en **C**
+- 🌱 Actualmente estoy especializandome en **Phyton**
 
 - 👨‍💻 Todos mis proyectos estan disponibles es: [https://github.com/santiagobatto/Portfolio](https://github.com/santiagobatto?tab=repositories)
 
