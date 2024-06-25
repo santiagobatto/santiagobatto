@@ -7,13 +7,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=santiagobatto&label=Profile%20views&color=0e75b6&style=flat" alt="santiagobatto" /> </p>
 
-- 🌱 Actualmente estoy especializandome en **Phyton**
+- 🌱 Actualmente especializanción en: **Phyton**
 
-- 👨‍💻 Todos mis proyectos estan disponibles es: [https://github.com/santiagobatto/Portfolio](https://github.com/santiagobatto?tab=repositories)
+- 📫 Contacto: **santiagobatto007@gmail.com**
 
-- 📫 Como contactarme? **santiagobatto007@gmail.com**
-
-- 📄 Encontra más sobre mi en: https://www.linkedin.com/in/santiagobatto/
+- 📄 Sobre mi en: https://www.linkedin.com/in/santiagobatto/
 
 
 <br>
